@@ -21,7 +21,7 @@ module.exports = {
                 use: {
                     loader: 'babel-loader',
                     options: {
-                        presets: ['@babel/preset-env'],
+                        presets: ['@babel/preset-env', '@babel/preset-react'],
                     },
                 },
             },
@@ -78,9 +78,9 @@ module.exports = {
         }),
     ],
     devServer: {
-        port: 80,
-        host: 'localbot.binary.sx',
-        open: true,
+        port: 3000,
+        host: 'localhost',
+        open: false,
         historyApiFallback: true,
         client: {
             logging: 'log',
