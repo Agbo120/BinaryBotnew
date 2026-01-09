@@ -12,7 +12,7 @@ export const APP_ID_MAP = Object.freeze({
         'staging-bot.deriv.be': '31248',
     }),
     dev: Object.freeze({
-        localhost: '16014',
-        'localbot.binary.sx': '16014',
+        localhost: '120253',
+        'localbot.binary.sx': '120253',
     }),
 });

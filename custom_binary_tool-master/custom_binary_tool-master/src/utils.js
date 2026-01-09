@@ -59,7 +59,7 @@ export const getDomainAppId = () => {
             ? APP_ID_MAP.staging[hostname]
             : hostname in APP_ID_MAP.dev
                 ? APP_ID_MAP.dev[hostname]
-                : 29864;
+                : 120253;
 };
 
 export const queryToObjectArray = queryStr => {

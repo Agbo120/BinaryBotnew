@@ -151,7 +151,7 @@ ENDPOINT='wss://ws.binaryws.com/websockets/v3?l=en&app_id=1169' bot bot-example.
 
 ```
 
-To set the endpoint for running the application on the localhost. For this, Go to http://localbot.binary.sx/endpoint.html. Make sure the Server is set to blue.binaryws.com and O Auth App ID is 16014 Click submit
+To set the endpoint for running the application on the localhost. For this, Go to http://localbot.binary.sx/endpoint.html. Make sure the Server is set to blue.binaryws.com and O Auth App ID is 120253 Click submit
 
 ## Think you found a bug?
 
